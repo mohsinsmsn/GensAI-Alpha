@@ -2,6 +2,7 @@
 
 # 💻 Gensyn-ai-Rl-Swarm_Guide {Mac/Linux} 💻
 # Run Gensyn Node FREE using VPS
+
 ** Signup free using  : https://www.vultr.com/?ref=9744662-9J **
 
 </div>
@@ -308,7 +309,7 @@ Follow official Docs for more info and Errors!
 
 https://github.com/gensyn-ai/rl-swarm/tree/brian-address-cpu-only-crashes?tab=readme-ov-file#troubleshooting
 
-👉 https://telegram.me/SaahilBHat6
+👉 TG : @saahil2047
 
 If U have any issue then open a issue on this repo or Dm me on TG~
 
