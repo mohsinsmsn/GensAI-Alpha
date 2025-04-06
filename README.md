@@ -1,4 +1,4 @@
-💻 Gensyn-ai-Rl-Swarm_Guide {Mac/Linux} 💻
+**💻 Gensyn-ai-Rl-Swarm_Guide {Mac/Linux} 💻**
 Device/System Requirements 🖥️
 
 
@@ -8,7 +8,7 @@ Signup on Vultr for running FREE VPS Node
 https://www.vultr.com/?ref=9744662-9J
 
 Open Your Vps
-ssh username@ip
+`ssh username@ip`
 Pre-Requirements 🛠
 Install Python and Other Tools
 For Linux/Wsl
